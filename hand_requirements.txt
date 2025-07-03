@@ -1,0 +1,12 @@
+mediapipe
+opencv-python
+numpy
+
+Optional: Add specific versions for stability
+mediapipe==0.10.9
+opencv-python==4.9.0.80
+numpy>=1.21.0
+
+
+To install them:
+pip install -r hand_requirements.txt
